@@ -10,5 +10,5 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-- script: echo "Hello From Chaitanya.in"
+- script: echo "Hello From Jagtap.in"
   displayName: 'Run a one-line script'
